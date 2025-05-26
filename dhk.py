@@ -3,8 +3,8 @@ from telethon import TelegramClient, events
 import asyncio
 
 # Telegram API credentials
-api_id = '22625858'  # Replace with your API ID
-api_hash = '4679879c90c0039269b8a77e176aad89'  # Replace with your API Hash
+api_id = '22564049'  # Replace with your API ID
+api_hash = 'c60ebbfdbf49d845e66ebf2407feadd3'  # Replace with your API Hash
 
 # Path to text files
 welcome_file = 'welcome.txt'
